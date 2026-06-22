@@ -55,7 +55,3 @@ endif
 # Include main makefile:
 #---------------------------------------------------------------------------------------------------------------------
 include $(LIBBUTANOABS)/butano.mak
-
-# Pad ROM to 256-byte boundary after build
-$(OUTPUT).gba: FORCE
-	padbin 256 $@
