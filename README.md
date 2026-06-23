@@ -1,4 +1,4 @@
-# PCM-player-gba
+# WAV-player-gba
 play wav file on a gba Built on top of a patched version of butano engine
 
 # Note
