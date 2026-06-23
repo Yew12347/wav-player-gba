@@ -3,7 +3,7 @@ play wav file on a gba Built on top of a patched version of butano engine
 
 # Note
 
-this project is still wip but now work on real hardware too just a little bit of glitch but it bareable
+this project is still wip but now work on real hardware too just a little bit of glitch
 
 # How to build
 1. install devkitpro or devkitarm up to os
